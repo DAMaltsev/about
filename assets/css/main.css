@@ -1,0 +1,9 @@
+.avatar {
+    max-width: 100%;
+}
+#phone {
+    display: none;
+    font-size: 24px;
+    color: cornflowerblue;
+    text-decoration: none;
+}
